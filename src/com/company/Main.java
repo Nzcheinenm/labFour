@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        SwimmingTransport.Boat boatSwim = new SwimmingTransport.Boat(); // Проверяем и создаем вложенный класс
+        SwimmingTransport.Boat boatSwim = new SwimmingTransport.Boat(); // Проверяем и создаем вложенный  класса обьект
         boatSwim.name(); // Что б красив вывод был
         boatSwim.fuel(); // Проверяем топливо
         boatSwim.swim(); // Плывем
